@@ -1,0 +1,13 @@
+{
+  "key.category.donut.client": "Donut Client",
+  "key.donut.open_gui": "Open Donut GUI",
+  "key.donut.toggle_storage": "Toggle StorageFinder",
+  "key.donut.toggle_spawner": "Toggle SpawnerFinder",
+  "key.donut.toggle_freecam": "Toggle Freecam",
+  "key.donut.toggle_pearl_save": "Toggle PearlSave",
+  "key.donut.toggle_mlg": "Toggle MLG",
+  "key.donut.toggle_auto_eat": "Toggle AutoEat",
+  "key.donut.toggle_auto_tool": "Toggle Auto Tool",
+  "key.donut.toggle_rtp_plus": "Toggle RTP Plus",
+  "key.donut.toggle_block_esp": "Toggle Block ESP"
+}

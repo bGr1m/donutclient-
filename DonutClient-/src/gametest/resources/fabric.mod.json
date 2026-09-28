@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "donut-gametest",
+  "version": "1.0.0",
+  "name": "Donut Client Runtime Tests",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-client-gametest": [
+      "dev.donut.client.gametest.DonutClientGameTest",
+      "dev.donut.client.gametest.FreecamGameTest",
+      "dev.donut.client.gametest.ModuleKeybindGameTest"
+    ]
+  },
+  "depends": {
+    "donut": "*",
+    "fabric-client-gametest-api-v1": "*"
+  }
+}

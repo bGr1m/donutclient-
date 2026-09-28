@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "donut:ui.ttf",
+      "shift": [0, 0],
+      "size": 11,
+      "oversample": 3.0
+    },
+    { "type": "reference", "id": "minecraft:default" }
+  ]
+}
