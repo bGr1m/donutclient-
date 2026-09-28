@@ -1,7 +1,0 @@
-{
-  "required": true,
-  "package": "dev.donut.client.mixin",
-  "compatibilityLevel": "JAVA_21",
-  "client": ["CameraMixin", "MouseHandlerMixin", "MinecraftMixin", "GameRendererMixin", "ScreenEffectRendererMixin", "LevelRendererMixin", "EntityRenderDispatcherMixin"],
-  "injectors": { "defaultRequire": 1 }
-}
